@@ -1,16 +1,20 @@
-## Hi there 👋
+### Mya Tolbert
 
-<!--
+University of Arkansas at Pine Bluff🦁
+
+Senior '26
+
+Biology/Pre-Dentistry Major🦷
+
+Interning at Fisk University 
+
+https://www.linkedin.com/in/mya-tolbert
+
+
+
+## Resume:
+[Mya Tolbert Resume.pdf](https://github.com/user-attachments/files/21516761/Mya.Tolbert.Resume.pdf)
+<!--[Mya Tolbert Resume.pdf](https://github.com/user-attachments/files/21516761/Mya.Tolbert.Resume.pdf)
 **MyaTolbert3/MyaTolbert3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
